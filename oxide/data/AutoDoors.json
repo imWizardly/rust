@@ -1,0 +1,204 @@
+{
+  "playerData": {
+    "76561199091178494": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199001819386": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198279498118": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199016012210": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198805669811": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199151291316": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199137891508": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199158870245": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198413776399": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199159984131": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198960613913": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199161473331": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198356850500": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198962539499": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199023571916": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198882232650": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199078434489": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199094245151": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199150849723": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198168053529": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199019253723": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199161862483": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199076821784": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199151612911": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199146345035": {
+      "doorData": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    }
+  }
+}

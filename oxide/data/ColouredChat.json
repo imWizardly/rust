@@ -1,0 +1,194 @@
+{
+  "AllColourData": {
+    "76561199020145239": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#000000",
+        "#ffffff"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618667098
+    },
+    "76561199079761901": {
+      "Name Colour": "#89cff0",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618669974
+    },
+    "76561198849076674": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#cc2b5e",
+        "#753a88"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618095917
+    },
+    "76561198327172644": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#cc2b5e",
+        "#753a88"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618078276
+    },
+    "moderator": {
+      "Name Colour": "",
+      "Name Gradient Args": null,
+      "Message Colour": "#ffffff",
+      "Message Gradient Args": null,
+      "Last active": 0
+    },
+    "admin": {
+      "Name Colour": "",
+      "Name Gradient Args": null,
+      "Message Colour": "#ffffff",
+      "Message Gradient Args": null,
+      "Last active": 0
+    },
+    "manager": {
+      "Name Colour": "",
+      "Name Gradient Args": null,
+      "Message Colour": "#ffffff",
+      "Message Gradient Args": null,
+      "Last active": 0
+    },
+    "76561199150849723": {
+      "Name Colour": "#DA3F3F",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618669159
+    },
+    "76561198960613913": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#ff0000",
+        "#ffa500",
+        "#ffff94",
+        "#008000",
+        "#0000ff",
+        "#4b0082",
+        "#ee82ee"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618665678
+    },
+    "76561199091178494": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#FFFFFF",
+        "#400080"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618594989
+    },
+    "76561198254876369": {
+      "Name Colour": "#ff0000",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618615206
+    },
+    "76561198433927462": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#BA55D3",
+        "#9370DB"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618615214
+    },
+    "76561199043158818": {
+      "Name Colour": "#ff6666",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618615110
+    },
+    "76561198882232650": {
+      "Name Colour": "#ffb6c1",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618597244
+    },
+    "76561199161473331": {
+      "Name Colour": "#ff0090",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618506127
+    },
+    "76561199073008879": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#BA55D3",
+        "#9370DB",
+        "#7B68EE",
+        "#9932CC",
+        "#9400D3"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618504781
+    },
+    "76561198883111231": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#0000ff",
+        "#ff0000"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618666737
+    },
+    "76561199076821784": {
+      "Name Colour": "#ff0000",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618617726
+    },
+    "76561199037481707": {
+      "Name Colour": "",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618510245
+    },
+    "76561198862608108": {
+      "Name Colour": "#8E1ED7",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618592942
+    },
+    "76561198962539499": {
+      "Name Colour": "",
+      "Name Gradient Args": [
+        "#a9430e",
+        "#f5b915",
+        "#f2a1ce"
+      ],
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618597365
+    },
+    "76561199078434489": {
+      "Name Colour": "",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 1618615060
+    }
+  }
+}

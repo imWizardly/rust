@@ -1,0 +1,1107 @@
+[
+  {
+    "Title": "starter",
+    "Name Format": "Starter",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "To get you started on Kraken.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 600.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.default",
+    "Items": [
+      {
+        "Item Name": "bone.armor.suit",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "deer.skull.mask",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "arrow.wooden",
+        "Amount": 50,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "bow.hunting",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 50.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "arrow.wooden",
+          "Amount of Ammo": 0
+        },
+        "Content": null
+      },
+      {
+        "Item Name": "black.raspberries",
+        "Amount": 25,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "bandage",
+        "Amount": 10,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "stonehatchet",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "stone.pickaxe",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "base",
+    "Name Format": "Base",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Build your cottage.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 1000.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.default",
+    "Items": [
+      {
+        "Item Name": "building.planner",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "cupboard.tool",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "hammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "door.hinged.metal",
+        "Amount": 3,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "lock.code",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "box.wooden.large",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "workbench1",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 1.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "furnace",
+        "Amount": 3,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wood",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "stones",
+        "Amount": 3000,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "lowgradefuel",
+        "Amount": 100,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.fragments",
+        "Amount": 200,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "vip-pvp",
+    "Name Format": "VIP PvP",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Get into battle with VIP PvP Kit.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 2400.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.vip",
+    "Items": [
+      {
+        "Item Name": "roadsign.jacket",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 150.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "roadsign.kilt",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 150.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "riot.helmet",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 150.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "roadsign.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "tshirt.long",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "ammo.pistol",
+        "Amount": 200,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "smg.mp5",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "ammo.pistol",
+          "Amount of Ammo": 30
+        },
+        "Content": []
+      },
+      {
+        "Item Name": "black.raspberries",
+        "Amount": 13,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "syringe.medical",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "bandage",
+        "Amount": 10,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "vip-boom",
+    "Name Format": "VIP Boom",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Go boomy with the boomer boom kit.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 3200.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.vip",
+    "Items": [
+      {
+        "Item Name": "ammo.rifle.explosive",
+        "Amount": 200,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "ammo.rocket.basic",
+        "Amount": 3,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "rifle.semiauto",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "ammo.rifle.explosive",
+          "Amount of Ammo": 16
+        },
+        "Content": []
+      },
+      {
+        "Item Name": "explosive.timed",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "rocket.launcher",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 200.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "ammo.rocket.basic",
+          "Amount of Ammo": 0
+        },
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "vip-base",
+    "Name Format": "VIP Base",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Build your cottage.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 1000.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.vip",
+    "Items": [
+      {
+        "Item Name": "door.double.hinged.metal",
+        "Amount": 3,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "door.hinged.metal",
+        "Amount": 3,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wall.frame.garagedoor",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "lock.code",
+        "Amount": 10,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "cupboard.tool",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wood",
+        "Amount": 7000,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "stones",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.fragments",
+        "Amount": 2500,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.refined",
+        "Amount": 300,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "lowgradefuel",
+        "Amount": 200,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "workbench2",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 1.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "box.repair.bench",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "box.wooden.large",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "research.table",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "furnace",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "bed",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wall.frame.shopfront.metal",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "ladder.wooden.wall",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "floor.triangle.ladder.hatch",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wall.window.bars.wood",
+        "Amount": 3,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "elite-base",
+    "Name Format": "Elite Base",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Build a mansion.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 1000.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.elitevip",
+    "Items": [
+      {
+        "Item Name": "door.double.hinged.metal",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "door.hinged.metal",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wall.frame.garagedoor",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "lock.code",
+        "Amount": 15,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "cupboard.tool",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wood",
+        "Amount": 13000,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "stones",
+        "Amount": 8000,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.fragments",
+        "Amount": 3300,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.refined",
+        "Amount": 600,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "lowgradefuel",
+        "Amount": 300,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "box.repair.bench",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "box.wooden.large",
+        "Amount": 8,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "research.table",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "furnace",
+        "Amount": 8,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "bed",
+        "Amount": 2,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wall.frame.shopfront.metal",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "ladder.wooden.wall",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "floor.triangle.ladder.hatch",
+        "Amount": 5,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "workbench3",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 1.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "wall.window.bars.metal",
+        "Amount": 10,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "building.planner",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "hammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "elite-pvp",
+    "Name Format": "Elite PvP",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Go fight some people, get Kraken!.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 2400.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.elitevip",
+    "Items": [
+      {
+        "Item Name": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 10023,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "hoodie",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 10086,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.facemask",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 320.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "metal.plate.torso",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 360.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "tactical.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "SkinID": 10048,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "weapon.mod.lasersight",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "weapon.mod.flashlight",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "weapon.mod.holosight",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "ammo.rifle",
+        "Amount": 250,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 150.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "ammo.rifle",
+          "Amount of Ammo": 30
+        },
+        "Content": []
+      },
+      {
+        "Item Name": "syringe.medical",
+        "Amount": 10,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "black.raspberries",
+        "Amount": 17,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "bandage",
+        "Amount": 10,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  },
+  {
+    "Title": "elite-boom",
+    "Name Format": "Elite Boom",
+    "Color of the kit (default - #46C4FFFF)": "#46C4FFFF",
+    "Description": "Go blow things up.",
+    "Color of the kit description (default - #CBCBCBFF)": "#CBCBCBFF",
+    "Maximum usages": 0,
+    "Cooldown": 3200.0,
+    "Visible or Hidden": false,
+    "Privilege": "kits.elitevip",
+    "Items": [
+      {
+        "Item Name": "ammo.rifle.explosive",
+        "Amount": 350,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "ammo.rocket.basic",
+        "Amount": 6,
+        "Blueprint": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "rifle.semiauto",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "ammo.rifle.explosive",
+          "Amount of Ammo": 16
+        },
+        "Content": []
+      },
+      {
+        "Item Name": "explosive.timed",
+        "Amount": 6,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "SkinID": 0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "Item Name": "rocket.launcher",
+        "Amount": 1,
+        "Blueprint": 0,
+        "Container": "belt",
+        "Condition": 200.0,
+        "SkinID": 0,
+        "Weapon": {
+          "Ammo Type": "ammo.rocket.basic",
+          "Amount of Ammo": 0
+        },
+        "Content": null
+      }
+    ]
+  }
+]

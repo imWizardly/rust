@@ -1,0 +1,21 @@
+{
+  "PlayerData": {
+    "76561199079761901": {
+      "IsEnabled": true,
+      "IsRemoved": false,
+      "WasAdmin": true,
+      "Groups": [
+        "owner",
+        "default",
+        "admin"
+      ],
+      "RestoreName": "MrSleepy",
+      "RestoreUserId": 76561199079761901,
+      "Profile": 1,
+      "Name": "Krakel",
+      "UserId": 76561197960279927,
+      "Better Chat Group": "default",
+      "Required Permission": "admindeepcover.use"
+    }
+  }
+}

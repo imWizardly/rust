@@ -1,0 +1,56 @@
+{
+  "76561199079761901": {
+    "starter": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "base": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip-pvp": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip-boom": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip-base": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "elite-base": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "elite-pvp": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "elite-boom": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198968664121": {
+    "starter": {
+      "Amount": 0,
+      "Cooldown": 63754267240.946739
+    },
+    "base": {
+      "Amount": 0,
+      "Cooldown": 63754267688.568993
+    }
+  },
+  "76561198949988873": {
+    "starter": {
+      "Amount": 0,
+      "Cooldown": 63754267514.59745
+    },
+    "base": {
+      "Amount": 0,
+      "Cooldown": 63754267916.344841
+    }
+  }
+}

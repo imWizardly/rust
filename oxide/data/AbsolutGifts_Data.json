@@ -1,0 +1,82 @@
+{
+  "Gifts": {
+    "120": {
+      "vip": false,
+      "gifts": [
+        {
+          "Skin": 0,
+          "amount": 1,
+          "ID": 23391694,
+          "SR": false,
+          "Eco": false,
+          "AC": false
+        },
+        {
+          "Skin": 0,
+          "amount": 1,
+          "ID": 1545779598,
+          "SR": false,
+          "Eco": false,
+          "AC": false
+        },
+        {
+          "Skin": 0,
+          "amount": 125,
+          "ID": 550753330,
+          "SR": false,
+          "Eco": false,
+          "AC": false
+        },
+        {
+          "Skin": 0,
+          "amount": 300,
+          "ID": -592016202,
+          "SR": false,
+          "Eco": false,
+          "AC": false
+        },
+        {
+          "Skin": 0,
+          "amount": 25,
+          "ID": -1961560162,
+          "SR": false,
+          "Eco": false,
+          "AC": false
+        }
+      ],
+      "ID": 120
+    }
+  },
+  "Players": {
+    "76561199020145239": {
+      "PlayerTime": 39,
+      "pendingGift": {},
+      "ReceivedGifts": [],
+      "ResetTime": 1617991081.8712978
+    },
+    "76561199079761901": {
+      "PlayerTime": 30,
+      "pendingGift": {},
+      "ReceivedGifts": [],
+      "ResetTime": 1617991213.9666355
+    },
+    "76561199150849723": {
+      "PlayerTime": 38,
+      "pendingGift": {},
+      "ReceivedGifts": [],
+      "ResetTime": 1617991265.7469113
+    },
+    "76561199155605150": {
+      "PlayerTime": 11,
+      "pendingGift": {},
+      "ReceivedGifts": [],
+      "ResetTime": 1617992897.5731604
+    },
+    "76561199158449652": {
+      "PlayerTime": 5,
+      "pendingGift": {},
+      "ReceivedGifts": [],
+      "ResetTime": 1617993364.6167045
+    }
+  }
+}
