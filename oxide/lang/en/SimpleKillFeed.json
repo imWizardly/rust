@@ -1,0 +1,21 @@
+{
+  "MsgAttacker": "You killed <color=#ff686b>{0}</color> from {1}m in <color=#ff686b>{2}</color>.",
+  "MsgVictim": "<color=#ff686b>{0}</color> killed you from {1}m with their {2} to <color=#ff686b>{3}</color>.",
+  "MsgFeedKill": "<color=#00ff00>{0}</color> killed <color=#ff686b>{1}</color>, <color=#ff686b>{2}</color>, <color=#ff686b>{3}</color><color={4}>({5}m)</color>",
+  "MsgFeedKillNpc": "<color=#00ff00>{0}</color> killed <color=#ff686b>{1}</color>, <color={2}>({3}m)</color>",
+  "MsgAtkWounded": "You wounded <color=#ff686b>{0}</color> till death.",
+  "MsgVictimWounded": "<color=#ff686b>{0}</color> has wounded you till death.",
+  "MsgFeedWounded": "<color=#00ff00>{0}</color> finished <color=#ff686b>{1}</color>",
+  "MsgAttackerBlown": "You blown <color=#ff686b>{0}</color>!",
+  "MsgVictimBlown": "<color=#ff686b>{0}</color> has blown you!",
+  "MsgFeedBlown": "<color=#00ff00>{0}</color> blown up <color=#ff686b>{1}</color>!",
+  "MsgAtkBurned": "You burned <color=#ff686b>{0}</color> alive!",
+  "MsgVictimBurned": "<color=#ff686b>{0}</color> has burned you alive!",
+  "MsgFeedBurned": "<color=#00ff00>{0}</color> burned <color=#ff686b>{1}</color>!",
+  "MsgFeedKillEnt": "<color=#ff686b>{0}</color> was killed by <color=orange>{1}</color>",
+  "MsgFeedKillAnimal": "<color=#ff686b>{0}</color> was killed by <color=orange>{1}</color>",
+  "MsgFeedKillSuicide": "<color=#ff686b>{0}</color> committed <color=orange>Suicide</color>",
+  "MsgFeedKillRadiation": "<color=#ff686b>{0}</color> died to <color=orange>Radiation</color>",
+  "Enabled": "KillFeed Enabled",
+  "Disabled": "KillFeed Disabled"
+}

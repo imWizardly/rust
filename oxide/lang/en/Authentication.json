@@ -1,0 +1,5 @@
+{
+  "PASSWORD_REQUEST": "Type /auth [password] in the following {TIMEOUT} seconds to authenticate or you'll be kicked.",
+  "AUTHENTICATION_TIMED_OUT": "You took too long to authenticate or exceeded the maximum amount of retries.",
+  "AUTHENTICATION_SUCCESSFUL": "Authentication successful."
+}

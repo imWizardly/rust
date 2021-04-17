@@ -1,0 +1,5 @@
+{
+  "NoPermission": "You do not have permission to use that command.",
+  "NotFound": "No players found.",
+  "Usage": "Usage: location [-d] [name|id]"
+}

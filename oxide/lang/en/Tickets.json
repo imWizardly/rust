@@ -1,0 +1,19 @@
+{
+  "Ticket List Item": "{Status} [#C4FF00]Ticket #{ID}[/#] by {Creator}",
+  "Ticket List Empty": "{Title} There are no tickets.",
+  "Ticket Created": "{Title} You have successfully created a ticket (#{ID})",
+  "Ticket View": "{Title} {Status} Viewing Ticket #{ID} by {Creator}:\r\n\r\n{Replies}",
+  "Reply": "[#C4FF00]{Author}[/#] - {Date}\r\n{Message}",
+  "Date Format": "{Day}.{Month}.{Year} {Hour}:{Minute}",
+  "Ticket Closed": "{Title} You successfully closed ticket #{ID}.",
+  "Replied To Ticket": "{Title} You replied to ticket #{ID}.",
+  "Teleported To Ticket": "{Title} You teleported to ticket #{ID}.",
+  "Teleported Not Found": "{Title} Ticket #{ID} could not be found.",
+  "Reply Notification": "New Reply to Ticket #{ID}:\r\n{Reply}",
+  "Created Notification": "New Ticket #{ID}:\r\n{Reply}",
+  "Closed Notification": "Ticket #{ID} was closed by {Admin}",
+  "Wiped Notification": "{Admin} has deleted all existing tickets.",
+  "Ticket Is Closed": "{Title} Ticket #{ID} is closed. No further replies are allowed.",
+  "Already Closed": "{Title} Ticket is closed already.",
+  "Wiped": "All existing tickets have been deleted."
+}

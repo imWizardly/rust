@@ -1,0 +1,6 @@
+{
+  "NotFound": "We can't find player with that name/ID! {0}",
+  "ErrorCreating": "We couldn't create an item",
+  "Syntax": "Syntax: /{0} name/steamid",
+  "NoPermission": "You don't have permission to use this command!"
+}

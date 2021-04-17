@@ -1,0 +1,16 @@
+{
+  "ERROR.INVALID": "This kit does not exist",
+  "ERROR.NOACCESS": "You are not able to use this kit",
+  "ERROR.LIMIT": "You have already used this kit a large number of times",
+  "ERROR.COOLDOWN": "You will be able to use this kit through {0}",
+  "ERROR.INVENTORYFULL": "There is not enough space in the inventory",
+  "KITS.GIVED": "You got the kit {0}",
+  "ERROR.DUBLICATE": "This kit already exists",
+  "KITS.ADDED": "You have created a new kit{0}",
+  "KITS.ITEMS": "Items were copied from inventory to kit {0}",
+  "ERROR.DELETED": "Kit {0} was deleted",
+  "KITS.RESET": "You zeroed all data on the kits of players",
+  "ERROR.NOPLAYER": "Player not found",
+  "ERROR.MOREPLAYERS": "Found a few players",
+  "KITS.PLAYERGIVED": "You have successfully issued the player {0} set {1}"
+}

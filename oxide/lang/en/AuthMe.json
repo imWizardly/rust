@@ -1,0 +1,13 @@
+{
+  "Authorized.Ip": "<size=16>You successful <color=#4286f4>authorized</color>:</size>\n<size=10>You already authorized from IP: {0}</size>",
+  "Help.NoRegistrationWarning": "<size=16>Your account is <color=#4286f4>not protected</color>!</size>\nCheck Console (<color=#4286f4>F1</color>) to fix trouble!",
+  "Registration.EmptyPassword": "Password is empty!",
+  "Registration.Successful": "You successful registered on server!\nYour password: {0}",
+  "Authorized.Successful": "You successful authorized!",
+  "Authorized.BadPassword": "You entered wrong password!Command to authorize: auth <your password>",
+  "Registration.Need": "SIGN UP",
+  "Authorized.Need": "LOG IN",
+  "Help.Info": "All information in console",
+  "Help.Registration": "Hello! To sign up, enter auth <your password> in console !\nYou will not need to enter password from IP: {0}\nCommand: auth <your password>",
+  "Help.Authorization": "Hello! To log in, enter auth <your password> in console!\nYou will not need to enter password from IP: {0}\nCommand: auth <your password>"
+}

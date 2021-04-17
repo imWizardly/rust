@@ -1,0 +1,4 @@
+{
+  "AnnounceAll": "<size=13><color=red>{0} is a new player, try not to KOS!</color></size>",
+  "WelcomePlayer": "<color=cyan>Welcome to Kraken!, {0}! Have fun.</color>"
+}

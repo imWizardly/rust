@@ -1,0 +1,6 @@
+{
+  "WelcomeMessage": "Welcome to <color=blue>Kraken x3</color> | Join our Discord for Updates: <color=red>https://discord.gg/zXTurBBG8g</color>",
+  "JoinMessage": "Player {0} has joined Kraken!",
+  "JoinMessageUnknown": "Player {0} has joined Kraken!",
+  "LeaveMessage": "Player {0} has left the server."
+}

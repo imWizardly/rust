@@ -1,0 +1,19 @@
+{
+  "title": "<color=#cc2900>HeliVote</color> : ",
+  "noPerms": "You do not have permission to use this command",
+  "badSyn": "<color=#ff704d>/helivote open ##</color> - Open a vote to spawn ## amount of helicopters. Maximum is <color=#ff704d>{0}</color>",
+  "voteOpen": "There is already a vote open",
+  "noOpen": "There isn't a vote open right now",
+  "yesVote": "You have voted yes",
+  "noVote": "You have voted no",
+  "alreadyVoted": "You have already voted",
+  "opened": "A vote to call <color=#ff704d>{0}</color> helicopter(s) is now open! Use <color=#ff704d>/helivote yes</color> or <color=#ff704d>/helivote no</color>",
+  "required": "Minimum yes votes required is <color=#ff704d>{0}</color>",
+  "invAmount": "You have entered a invalid number",
+  "timeLeft": "Voting ends in {0} {1}, use <color=#ff704d>/helivote yes</color> or <color=#ff704d>/helivote no</color>",
+  "cooldown": "You must wait for the cooldown period to end before opening a vote",
+  "voteSuccess": "The vote was successful, spawning <color=#ff704d>{0}</color> helicopters!",
+  "voteFail": "The vote failed to meet the requirements, try again in <color=#ff704d>{0}</color> minutes",
+  "heliActive": "There are still active helicopters from the last vote. Can not open a new vote until they are destroyed",
+  "totalVotes": "<color=#ff704d>{0}</color> vote(s) for Yes, <color=#ff704d>{1}</color> vote(s) for No"
+}

@@ -1,0 +1,9 @@
+{
+  "NoPerm": "You got no permission to use this command.",
+  "Syntax": "/ct <name tag>",
+  "Cooldown": "You must wait <color=#cacbd3>{0}</color> before using this command again.",
+  "NoComponent": "This item does not have ItemComponentNameOverride component.",
+  "DigitsLimit": "New name tag can not have more than <color=#cacbd3>{0}</color> digits.",
+  "CanNot": "This item name cannot be changed.",
+  "Changed": "Weapon name tag has been changed to: <color=#cacbd3>{0}</color>."
+}

@@ -1,0 +1,11 @@
+{
+  "No permission": "You have no access to that command.",
+  "No point for spawn": "No raycast hit! Look at something.",
+  "Can't spawn indoors": "You can use that command only when outside!",
+  "Spawned": "Your horse has been spawned, sir! Don't forget to feed it!",
+  "Cooldown": "You have called you horse recently, wait a bit, please.",
+  "Prefix": "[WHERE IS MY HORSE]",
+  "NoEscape": "Can't use command while escape blocked!",
+  "NRE": "Could not spawn a horse, it's null. Maybe next time?",
+  "Horse nearby": "There is a horse very close, consider using it instead."
+}

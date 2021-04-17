@@ -1,0 +1,23 @@
+{
+  "npcgui": "HumanNPC GUI",
+  "npcguisel": "HumanNPCGUI NPC Select ",
+  "npcguikit": "HumanNPCGUI Kit Select",
+  "close": "Close",
+  "none": "None",
+  "needselect": "Select NPC",
+  "select": "Select",
+  "editing": "Editing",
+  "mustselect": "Please press 'Select' to choose an NPC.",
+  "guihelp1": "For blue buttons, click to toggle true/false.",
+  "guihelp2": "For all values above in gray, you may type a new value and press enter.",
+  "guihelp3": "For kit, press the button to select a kit.",
+  "add": "Add",
+  "new": "Create New",
+  "remove": "Remove",
+  "spawnhere": "Spawn Here",
+  "tpto": "Teleport to NPC",
+  "name": "Name",
+  "online": "Online",
+  "offline": "Offline",
+  "deauthall": "DeAuthAll"
+}

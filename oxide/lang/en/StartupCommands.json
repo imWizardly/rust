@@ -1,0 +1,10 @@
+{
+  "CommandAdded": "Command '{0}' was added to the startup command list",
+  "CommandAlias": "autocmd",
+  "CommandListed": "Command '{0}' is already in the startup command list",
+  "CommandNotListed": "Command '{0}' is not in the startup command list",
+  "CommandRemoved": "Command '{0}' was removed from the startup command list",
+  "CommandUsage": "Usage: {0} <add | remove | list> <command>",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "StartupCommands": "Startup commands: {0}"
+}

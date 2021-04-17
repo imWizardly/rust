@@ -1,0 +1,12 @@
+{
+  "UnknownError": "Something went wrong",
+  "PlayerNotAProp": "You are not a prop",
+  "PlayerAlreadyAProp": "You are already a prop",
+  "PlayerBecameAProp": "You became a <color=#FFA500>{0}</color>",
+  "PlayerLeftAProp": "You are not a prop anymore",
+  "NoPermissions": "Missing permission",
+  "NoVanshPermission": "Missing vanish permission",
+  "NoVanishPlugin": "Vanish plugin required",
+  "InvalidArgs": "Invalid Arguments",
+  "PropsList": "<color=#FFA500>Available Props</color> \n\n<color=#FFA500>•</color> {0}"
+}
