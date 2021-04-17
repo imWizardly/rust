@@ -1,0 +1,61 @@
+{
+  "RevertStackSizesToVanillaOnUnload": true,
+  "AllowStackingItemsWithDurability": true,
+  "HidePrefixWithPluginNameInMessages": false,
+  "DisableDupeFixAndLeaveWeaponMagsAlone": false,
+  "GlobalStackMultiplier": 1.0,
+  "CategoryStackMultipliers": {
+    "Weapon": 1.0,
+    "Construction": 1.0,
+    "Items": 1.0,
+    "Resources": 1.0,
+    "Attire": 1.0,
+    "Tool": 1.0,
+    "Medical": 1.0,
+    "Food": 1.0,
+    "Ammunition": 1.0,
+    "Traps": 1.0,
+    "Misc": 1.0,
+    "All": 1.0,
+    "Common": 1.0,
+    "Component": 1.0,
+    "Search": 1.0,
+    "Favourite": 1.0,
+    "Electrical": 1.0,
+    "Fun": 1.0
+  },
+  "IndividualItemStackMultipliers": {},
+  "CategoryStackHardLimits": {
+    "Weapon": 10,
+    "Construction": 150,
+    "Items": 50,
+    "Resources": 50000,
+    "Attire": 30,
+    "Tool": 0,
+    "Medical": 200,
+    "Food": 200,
+    "Ammunition": 1500,
+    "Traps": 50,
+    "Misc": 100,
+    "All": 0,
+    "Common": 100,
+    "Component": 1000,
+    "Search": 50,
+    "Favourite": 50,
+    "Electrical": 100,
+    "Fun": 100
+  },
+  "IndividualItemStackHardLimits": {
+    "174866732": 100,
+    "-1405508498": 100,
+    "567235583": 100,
+    "1478091698": 100,
+    "442289265": 100,
+    "-1850571427": 100
+  },
+  "VersionNumber": {
+    "Major": 3,
+    "Minor": 2,
+    "Patch": 2
+  }
+}

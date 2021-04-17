@@ -1,0 +1,138 @@
+{
+  "Combat": {
+    "Block": {
+      "damageTypes": [
+        "Bullet",
+        "Arrow",
+        "Blunt",
+        "Stab",
+        "Slash"
+      ],
+      "duration": 120.0,
+      "enabled": true,
+      "notify": true
+    },
+    "BlockWhen": {
+      "giveDamage": {
+        "enabled": true,
+        "minCondition": 100.0,
+        "minDamage": 1.0
+      },
+      "npcGiveDamage": false,
+      "npcTakeDamage": false,
+      "takeDamage": {
+        "enabled": true,
+        "minCondition": 100.0,
+        "minDamage": 1.0
+      }
+    },
+    "UnblockWhen": {
+      "death": true,
+      "respawn": true,
+      "wakeup": false
+    }
+  },
+  "Notifications": {
+    "Chat": true,
+    "GUIAnnouncements": {
+      "backgroundColor": "Red",
+      "enabled": true,
+      "textColor": "White"
+    },
+    "UI": true
+  },
+  "Raid": {
+    "Block": {
+      "damageTypes": [
+        "Explosion"
+      ],
+      "deathTypes": [
+        "Bullet",
+        "Blunt",
+        "Stab",
+        "Slash",
+        "Explosion",
+        "Heat"
+      ],
+      "distance": 100.0,
+      "duration": 120.0,
+      "enabled": true,
+      "excludePrefabs": [
+        ""
+      ],
+      "excludeWeapons": [
+        ""
+      ],
+      "includePrefabs": [
+        "door",
+        "window.bars",
+        "floor.ladder.hatch",
+        "floor.frame",
+        "wall.frame",
+        "shutter",
+        "external"
+      ],
+      "notify": true
+    },
+    "BlockExcept": {
+      "clan": true,
+      "friends": false,
+      "owner": true
+    },
+    "BlockWhen": {
+      "damage": {
+        "enabled": true,
+        "minCondition": 100.0
+      },
+      "destroy": true,
+      "unowned": false
+    },
+    "BlockWho": {
+      "clan": false,
+      "cupboardAuthorized": false,
+      "everyone": true,
+      "friends": false,
+      "owner": false,
+      "raider": false
+    },
+    "Map": {
+      "duration": 150.0,
+      "enabled": false,
+      "icon": "special"
+    },
+    "UnblockWhen": {
+      "death": true,
+      "respawn": true,
+      "wakeup": false
+    },
+    "Zone": {
+      "enabled": false,
+      "enter": true,
+      "leave": false
+    }
+  },
+  "Settings": {
+    "Block": {
+      "Types": [
+        "remove",
+        "tp",
+        "bank",
+        "trade",
+        "recycle",
+        "shop",
+        "bgrade",
+        "build",
+        "repair",
+        "upgrade",
+        "vend",
+        "kit",
+        "assignbed",
+        "craft",
+        "mailbox",
+        "backpack"
+      ]
+    },
+    "cacheMinutes": 1.0
+  },
+  "VERSION": "2.1.33"
+}

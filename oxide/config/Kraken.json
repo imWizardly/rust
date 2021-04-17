@@ -1,0 +1,115 @@
+{
+  "Adverts": {
+    "Adverts enabled": true,
+    "Broadcast to console": false,
+    "Display interval (minutes)": 2,
+    "Display order randomized": true,
+    "Permission for bypassing adverts": "kraken.bypassadverts",
+    "Use PopupNotifications": false,
+    "Used Popup time": 10.0
+  },
+  "Commands": {
+    "Activation": {
+      "CmdAdminsList": false,
+      "CmdHelp": false,
+      "CmdPlayersCount": false,
+      "CmdPlayersList": false,
+      "CmdPluginsList": false,
+      "CmdServerHelp": false,
+      "CmdServerRules": true,
+      "CmdStaffInfo": false
+    },
+    "Command": {
+      "CmdAdminsList": "admins",
+      "CmdHelp": "kraken",
+      "CmdPlayersCount": "online",
+      "CmdPlayersList": "players",
+      "CmdPluginsList": "pluginlist",
+      "CmdServerHelp": "help",
+      "CmdServerRules": "cmds",
+      "CmdStaffInfo": "staffinfo"
+    }
+  },
+  "CountryBlocker": {
+    "Blocked country codes": [
+      "CN",
+      "KP"
+    ],
+    "Bypass permission": "kraken.bypassblock",
+    "Enable blocker": false,
+    "Exclude admins": true,
+    "Log kicks to console": true,
+    "Use as whitelist": false
+  },
+  "Formatting": {
+    "AdminsList namecolors": "#00a877",
+    "Chat separator": "#acacac",
+    "Command headlines": "#008bff",
+    "Commands descriptions": "#bebebe",
+    "Commands in overview": "#008bff",
+    "Date Format": "{day}/{month}/{year}",
+    "Helpmessages prefix": "<color=#008bff><size=18>•</size></color> ",
+    "PlayersList namecolors": "#6699cc",
+    "Plugin Icon SteamID": "0",
+    "Plugins name": "#ff8651",
+    "Plugins version": "#c0c0c0",
+    "Prefix": "Kraken",
+    "Prefix color": "#00b7eb",
+    "Prefix format": "",
+    "Seperator": "-",
+    "Seperator length": 25,
+    "Show headline separators": true,
+    "Show prefix for Adverts": true,
+    "Show prefix for Joins": true,
+    "Show prefix for Leaves": true,
+    "Textcolor default": "#bebebe",
+    "Textcolor help": "#bebebe",
+    "Textcolor rulesview": "#d4d3d2",
+    "Textcolor staff info": "#bebebe",
+    "Time Format": "{hour}:{minute}:{second}"
+  },
+  "General": {
+    "Admin join - treat as player": false,
+    "Admin leave - treat as player": false,
+    "Broadcast to console - join/leave": true,
+    "Days how long country is valid": 7,
+    "Display steam avatar of player - join/leave": false,
+    "Do not load&save player database": false,
+    "Enable - IP checks (needed for countrycode|countryblock)": true,
+    "Enable - join messages": true,
+    "Enable - leave messages": true,
+    "Enable - welcome message": true,
+    "Hide admins - Join": false,
+    "Hide admins - Leave": false,
+    "Hide admins - List": true,
+    "Staff info - authLevel": 1,
+    "Staff info - permission": "kraken.staffinfo",
+    "Use Newcomer messages for first join": true
+  },
+  "PluginList": {
+    "Hidden in overview": [
+      "Rust",
+      "Unity Core",
+      "AdminRadar",
+      "AdminChat",
+      "AdminMenu",
+      "AutomatedEvents",
+      "BetterChat",
+      "DeathNotes",
+      "CompoundOptions",
+      "ColouredChat",
+      "ImageLibrary",
+      "PowerlessTurrets",
+      "NoGiveNotices",
+      "Lighthouse",
+      "Waypoints",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

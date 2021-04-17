@@ -1,0 +1,9 @@
+{
+  "Lower SearchLight Degrees per Second": 10.0,
+  "Upper SearchLight Degrees per Second": 30.0,
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 2
+  }
+}

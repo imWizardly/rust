@@ -1,0 +1,12 @@
+{
+  "Enable GUI Notifications": true,
+  "Notification Settings": {
+    "Notification Display Time": 4.0,
+    "Background Color of Positive Notifications": "#00db6aFF",
+    "Background Color of Negative Notifications": "#F95E69FF"
+  },
+  "Kits on Respawn": [
+    "autokit1",
+    "autokit2"
+  ]
+}

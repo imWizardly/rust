@@ -1,0 +1,177 @@
+{
+  "Colors": {
+    "Panel - Dark": {
+      "Color": "#2a2a2a",
+      "Alpha": 0.98
+    },
+    "Panel - Medium": {
+      "Color": "#373737",
+      "Alpha": 0.98
+    },
+    "Panel - Light": {
+      "Color": "#696969",
+      "Alpha": 0.3
+    },
+    "Button - Primary": {
+      "Color": "#0068FF",
+      "Alpha": 0.9
+    },
+    "Button - Secondary": {
+      "Color": "#0068FF",
+      "Alpha": 0.9
+    },
+    "Button - Selected": {
+      "Color": "#00cd00",
+      "Alpha": 0.9
+    }
+  },
+  "Chat Command List": [
+    {
+      "Name": "TP to 0 0 0",
+      "Command": "/tp 0 0 0",
+      "Description": "Teleport self to 0 0 0",
+      "CloseOnRun": false
+    },
+    {
+      "Name": "TP to player",
+      "Command": "/tp {target1_name}",
+      "Description": "Teleport self to player",
+      "CloseOnRun": false
+    },
+    {
+      "Name": "TP P2P",
+      "Command": "/tp {target1_name} {target2_name}",
+      "Description": "Teleport player to player",
+      "CloseOnRun": false
+    },
+    {
+      "Name": "God",
+      "Command": "/god",
+      "Description": "Toggle god mode",
+      "CloseOnRun": false
+    }
+  ],
+  "Console Command List": [
+    {
+      "Name": "Set time to 9",
+      "Command": "env.time 9",
+      "Description": "Set the time to 9am",
+      "CloseOnRun": false
+    },
+    {
+      "Name": "Set to to 22",
+      "Command": "env.time 22",
+      "Description": "Set the time to 10pm",
+      "CloseOnRun": false
+    },
+    {
+      "Name": "TP P2P",
+      "Command": "teleport.topos {target1_name} {target2_name}",
+      "Description": "Teleport player to player",
+      "CloseOnRun": false
+    },
+    {
+      "Name": "Call random strike",
+      "Command": "airstrike strike random",
+      "Description": "Call a random Airstrike",
+      "CloseOnRun": false
+    }
+  ],
+  "Give amounts per category": {
+    "Ammunition": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Attire": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Common": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Component": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Construction": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Electrical": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Food": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Fun": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Items": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Medical": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Misc": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Resources": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Tool": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Traps": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "Weapon": [
+      1,
+      10,
+      100,
+      1000
+    ]
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 47
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Commands": [
+    "server.secure false",
+    "server.encryption 0"
+  ]
+}

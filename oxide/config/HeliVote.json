@@ -1,0 +1,10 @@
+{
+  "Options - Display vote progress": true,
+  "Options - Maximum helicopters to call": 1,
+  "Options - Required yes vote percentage": 0.5,
+  "Options - Send helicopters to the initiator": false,
+  "Options - Timers - Minimum time between votes (minutes)": 2,
+  "Options - Timers - Open vote timer (minutes)": 2,
+  "Options - Use majority rules": true,
+  "Options - Use permission system only": false
+}

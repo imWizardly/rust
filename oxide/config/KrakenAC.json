@@ -1,0 +1,278 @@
+{
+  "Admin": {
+    "Broadcast": true,
+    "Bypass": true
+  },
+  "AntiCheat": {
+    "Aim": {
+      "Ban": true,
+      "Cooldown": 30,
+      "Enabled": true,
+      "Sensitivity": 0.80,
+      "Trigger": {
+        "Animal": false,
+        "Bradley": false,
+        "Helicopter": false,
+        "NPC": false
+      },
+      "Warn": true
+    },
+    "FireRate": {
+      "Ban": false,
+      "Cooldown": 10,
+      "Enabled": true,
+      "Sensitivity": 0.65,
+      "Warn": true
+    },
+    "Gravity": {
+      "Ban": true,
+      "Cooldown": 10,
+      "Enabled": true,
+      "Sensitivity": 0.70,
+      "Warn": true
+    },
+    "MeleeRate": {
+      "Ban": true,
+      "Cooldown": 100,
+      "Enabled": true,
+      "Sensitivity": 0.65,
+      "Warn": true
+    },
+    "Recoil": {
+      "Ban": true,
+      "Cooldown": 10,
+      "Enabled": true,
+      "Sensitivity": 0.70,
+      "Warn": true
+    },
+    "Server": {
+      "Ban": true,
+      "Cooldown": 30,
+      "Enabled": true,
+      "Sensitivity": 0.68,
+      "Warn": true
+    },
+    "Stash": {
+      "Ban": true,
+      "Cooldown": 3600,
+      "Enabled": true,
+      "Sensitivity": 0.72,
+      "Warn": true
+    },
+    "Trajectory": {
+      "Ban": true,
+      "Cooldown": 90,
+      "Enabled": true,
+      "Sensitivity": 0.68,
+      "Warn": true
+    },
+    "WallHack": {
+      "Ban": true,
+      "Cooldown": 300,
+      "Enabled": true,
+      "Sensitivity": 0.73,
+      "Warn": true
+    }
+  },
+  "AntiFlood": {
+    "Chat": {
+      "Ban": false,
+      "Cooldown": 30,
+      "Enabled": true,
+      "Sensitivity": 0.65,
+      "Warn": true
+    },
+    "Command": {
+      "Ban": false,
+      "Cooldown": 30,
+      "Enabled": true,
+      "Sensitivity": 0.60,
+      "Warn": true
+    },
+    "ItemDrop": {
+      "Ban": false,
+      "Cooldown": 300,
+      "Enabled": true,
+      "Sensitivity": 0.60,
+      "Warn": true
+    }
+  },
+  "Ban": {
+    "Inherit": true,
+    "Teleport": false,
+    "Time": {
+      "Enforce": false,
+      "Multiply": false,
+      "Seconds": 0
+    }
+  },
+  "Cripple": {
+    "Heal": false,
+    "Inherit": true
+  },
+  "Discord": {
+    "Enabled": true,
+    "WebHook": "https://discord.com/api/webhooks/830455780184031232/30S9iUXSrUPXuq8uclMO4mwi6GNWAFBlmS_rMso4hz-Tx-IWbFEojNZg0MCt7z9gTK69",
+    "Filters": {
+      "AntiCheat": {
+        "Enabled": true,
+        "WebHook": "https://discord.com/api/webhooks/830455780184031232/30S9iUXSrUPXuq8uclMO4mwi6GNWAFBlmS_rMso4hz-Tx-IWbFEojNZg0MCt7z9gTK69"
+      },
+      "AntiFlood": {
+        "Enabled": true,
+        "WebHook": "https://discord.com/api/webhooks/830455780184031232/30S9iUXSrUPXuq8uclMO4mwi6GNWAFBlmS_rMso4hz-Tx-IWbFEojNZg0MCt7z9gTK69"
+      },
+      "IP": {
+        "Enabled": true,
+        "WebHook": "https://discord.com/api/webhooks/830455780184031232/30S9iUXSrUPXuq8uclMO4mwi6GNWAFBlmS_rMso4hz-Tx-IWbFEojNZg0MCt7z9gTK69"
+      },
+      "Steam": {
+        "Enabled": true,
+        "WebHook": "https://discord.com/api/webhooks/830455780184031232/30S9iUXSrUPXuq8uclMO4mwi6GNWAFBlmS_rMso4hz-Tx-IWbFEojNZg0MCt7z9gTK69"
+      },
+      "VPN": {
+        "Enabled": true,
+        "WebHook": "https://discord.com/api/webhooks/830455780184031232/30S9iUXSrUPXuq8uclMO4mwi6GNWAFBlmS_rMso4hz-Tx-IWbFEojNZg0MCt7z9gTK69"
+      }
+    }
+  },
+  "Entity": {
+    "Damage": {
+      "Animal": 1.0,
+      "Bradley": 1.0,
+      "Building": 1.0,
+      "Entity": 1.0,
+      "Friend": 1.0,
+      "Helicopter": 1.0,
+      "NPC": 1.0,
+      "Player": 1.0,
+      "Team": 1.0,
+      "Trap": 1.0
+    }
+  },
+  "IP": {
+    "Filter": {
+      "Cooldown": 10
+    },
+    "Violation": {
+      "Ban": false,
+      "Enabled": true
+    }
+  },
+  "Log": {
+    "AntiCheat": {
+      "Aim": false,
+      "Gravity": false,
+      "MeleeRate": false,
+      "Recoil": false,
+      "Server": false,
+      "Stash": false,
+      "Trajectory": false
+    },
+    "AntiFlood": {
+      "ItemDrop": false
+    },
+    "IP": {
+      "Filter": true
+    },
+    "Projectile": {
+      "Collapse": true,
+      "Verbose": false
+    },
+    "User": {
+      "Bypass": false,
+      "Connect": true
+    },
+    "VPN": {
+      "Check": true
+    }
+  },
+  "Steam": {
+    "API": {
+      "ApiKey": "",
+      "Enabled": false
+    },
+    "Ban": {
+      "Active": false,
+      "Community": false,
+      "Days": 0,
+      "Economy": false,
+      "Game": 0,
+      "VAC": 0
+    },
+    "Game": {
+      "Count": 0,
+      "Hours": 0
+    },
+    "Profile": {
+      "Invalid": false,
+      "Limited": false,
+      "Private": false
+    },
+    "Share": {
+      "Family": false
+    },
+    "Violation": {
+      "Ban": false,
+      "Enabled": true,
+      "Warn": false
+    }
+  },
+  "User": {
+    "Bypass": {
+      "DaysSinceBan": 10,
+      "Enabled": false,
+      "HoursPlayed": 6,
+      "Multiply": false
+    },
+    "Friend": {
+      "Damage": false
+    },
+    "Team": {
+      "Damage": false
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Patch": 4
+  },
+  "Violation": {
+    "Ban": true,
+    "Cooldown": 7200,
+    "Sensitivity": 0.5,
+    "Warn": false
+  },
+  "VPN": {
+    "API": {
+      "GetIpIntel": {
+        "ApiKey": "",
+        "Enabled": false
+      },
+      "IpApi": {
+        "ApiKey": "",
+        "Enabled": false
+      },
+      "IpHub": {
+        "ApiKey": "",
+        "Enabled": false
+      },
+      "IpQualityScore": {
+        "ApiKey": "",
+        "Enabled": false
+      }
+    },
+    "Cache": {
+      "Hours": 72
+    },
+    "Check": {
+      "Enabled": true,
+      "Strict": false
+    },
+    "Violation": {
+      "Ban": false,
+      "Enabled": true,
+      "Warn": true
+    }
+  }
+}

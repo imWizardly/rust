@@ -1,0 +1,227 @@
+{
+  "Settings": {
+    "Chat Command Color": "#FFFF00",
+    "Chat Command Argument Color": "#FFA500",
+    "Interrupt TP": {
+      "Above Water": false,
+      "Balloon": false,
+      "Boats": false,
+      "Cargo Ship": false,
+      "Cold": true,
+      "Excavator": false,
+      "Hot": true,
+      "Hostile": false,
+      "Hurt": true,
+      "Lift": false,
+      "Monument": false,
+      "Ignore Monument Marker Prefab": false,
+      "Mounted": true,
+      "Oil Rig": false,
+      "Safe Zone": false,
+      "Swimming": false
+    },
+    "Block Teleport (NoEscape)": true,
+    "Block Teleport (ZoneManager)": false,
+    "Chat Name": "<color=red>Teleportation</color> \n\n",
+    "Chat Steam64ID": 76561199056025689,
+    "Check Boundaries On Teleport X Y Z": true,
+    "Draw Sphere On Set Home": false,
+    "Homes Enabled": true,
+    "TPR Enabled": true,
+    "Strict Foundation Check": false,
+    "Cave Distance Small": 50.0,
+    "Cave Distance Medium": 70.0,
+    "Cave Distance Large": 110.0,
+    "Default Monument Size": 50.0,
+    "Minimum Temp": 0.0,
+    "Maximum Temp": 40.0,
+    "Blocked Items": {},
+    "Bypass CMD": "pay",
+    "Use Monument Topology Check": false,
+    "Use Cave Topology Check": false,
+    "Use Economics": false,
+    "Use Server Rewards": false,
+    "Wipe On Upgrade Or Change": true,
+    "Auto Generate Outpost Location": true,
+    "Auto Generate Bandit Location": true,
+    "Show Time As Seconds Instead": false
+  },
+  "Admin": {
+    "Announce Teleport To Target": false,
+    "Usable By Admins": true,
+    "Usable By Moderators": true,
+    "Location Radius": 25,
+    "Teleport Near Default Distance": 30
+  },
+  "Home": {
+    "Homes Limit": 3,
+    "VIP Homes Limits": {
+      "nteleportation.vip": 8
+    },
+    "Allow Sethome At Specific Monuments": [
+      "HQM Quarry",
+      "Stone Quarry",
+      "Sulfur Quarry"
+    ],
+    "Allow Sethome At All Monuments": false,
+    "Allow TPB": false,
+    "Cooldown": 120,
+    "Countdown": 20,
+    "Daily Limit": 200,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 400
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 60
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 15
+    },
+    "Location Radius": 25,
+    "Force On Top Of Foundation": true,
+    "Check Foundation For Owner": true,
+    "Use Friends": true,
+    "Use Clans": true,
+    "Use Teams": true,
+    "Usable Out Of Building Blocked": false,
+    "Usable Into Building Blocked": false,
+    "Usable From Safe Zone Only": false,
+    "Allow Cupboard Owner When Building Blocked": true,
+    "Allow Iceberg": true,
+    "Allow Cave": true,
+    "Allow Crafting": true,
+    "Allow Above Foundation": true,
+    "Check If Home Is Valid On Listhomes": true,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "TPT": {
+    "Use Friends": false,
+    "Use Clans": false,
+    "Use Teams": false,
+    "Allow Cave": false
+  },
+  "TPR": {
+    "Require Player To Be Friend, Clan Mate, Or Team Mate": false,
+    "Allow Cave": true,
+    "Allow TPB": false,
+    "Cooldown": 90,
+    "Countdown": 20,
+    "Daily Limit": 200,
+    "VIP Daily Limits": {
+      "nteleportation.vip": 400
+    },
+    "VIP Cooldowns": {
+      "nteleportation.vip": 60
+    },
+    "VIP Countdowns": {
+      "nteleportation.vip": 15
+    },
+    "Request Duration": 30,
+    "Block TPA On Ceiling": false,
+    "Usable Out Of Building Blocked": false,
+    "Usable Into Building Blocked": false,
+    "Allow Cupboard Owner When Building Blocked": true,
+    "Allow Crafting": true,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Dynamic Commands": {
+    "Town": {
+      "Command Enabled": false,
+      "Allow TPB": false,
+      "Allow Cave": false,
+      "Cooldown": 120,
+      "Countdown": 20,
+      "Daily Limit": 20,
+      "VIP Daily Limits": {
+        "nteleportation.vip": 40
+      },
+      "VIP Cooldowns": {
+        "nteleportation.vip": 60
+      },
+      "VIP Countdowns": {
+        "nteleportation.vip": 15
+      },
+      "Location": "0 0 0",
+      "Locations": [],
+      "Teleport To Random Location": false,
+      "Usable Out Of Building Blocked": false,
+      "Allow Crafting": true,
+      "Pay": 0,
+      "Bypass": 0
+    },
+    "Island": {
+      "Command Enabled": false,
+      "Allow TPB": false,
+      "Allow Cave": true,
+      "Cooldown": 120,
+      "Countdown": 20,
+      "Daily Limit": 20,
+      "VIP Daily Limits": {
+        "nteleportation.vip": 40
+      },
+      "VIP Cooldowns": {
+        "nteleportation.vip": 60
+      },
+      "VIP Countdowns": {
+        "nteleportation.vip": 15
+      },
+      "Location": "0 0 0",
+      "Locations": [],
+      "Teleport To Random Location": true,
+      "Usable Out Of Building Blocked": false,
+      "Allow Crafting": true,
+      "Pay": 0,
+      "Bypass": 0
+    },
+    "Outpost": {
+      "Command Enabled": true,
+      "Allow TPB": false,
+      "Allow Cave": true,
+      "Cooldown": 120,
+      "Countdown": 20,
+      "Daily Limit": 20,
+      "VIP Daily Limits": {
+        "nteleportation.vip": 40
+      },
+      "VIP Cooldowns": {
+        "nteleportation.vip": 60
+      },
+      "VIP Countdowns": {
+        "nteleportation.vip": 15
+      },
+      "Location": "549.8605 37.62991 667.6041",
+      "Locations": [],
+      "Teleport To Random Location": true,
+      "Usable Out Of Building Blocked": false,
+      "Allow Crafting": true,
+      "Pay": 0,
+      "Bypass": 0
+    },
+    "Bandit": {
+      "Command Enabled": true,
+      "Allow TPB": false,
+      "Allow Cave": true,
+      "Cooldown": 120,
+      "Countdown": 20,
+      "Daily Limit": 20,
+      "VIP Daily Limits": {
+        "nteleportation.vip": 40
+      },
+      "VIP Cooldowns": {
+        "nteleportation.vip": 60
+      },
+      "VIP Countdowns": {
+        "nteleportation.vip": 15
+      },
+      "Location": "94.74248 50.72065 -50.83458",
+      "Locations": [],
+      "Teleport To Random Location": true,
+      "Usable Out Of Building Blocked": false,
+      "Allow Crafting": true,
+      "Pay": 0,
+      "Bypass": 0
+    }
+  }
+}

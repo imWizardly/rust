@@ -1,0 +1,11 @@
+{
+  "Configuration version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 1
+  },
+  "Item lock radius (By player)": 50.0,
+  "Ignoring administrators": true,
+  "Enable blocking other players (Testing, at a radius from the current player": false,
+  "Frequency of checks (0.2 standard)": 0.2
+}
